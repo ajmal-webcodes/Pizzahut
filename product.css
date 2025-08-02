@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    padding-top: 180px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: chocolate;
+  }
+  
+  form {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+    color: chocolate;
+  
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #000000;
+    border-radius: 1.25rem;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  button {
+    background-color: #333;
+    color: white;
+    padding: 0.5rem;
+    border: none;
+    cursor: pointer;
+  }
+  
